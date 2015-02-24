@@ -1,3 +1,3 @@
-# EditDistance
+# editdistance
 
 Computes the edit distance between two strings or lists of tokens.
